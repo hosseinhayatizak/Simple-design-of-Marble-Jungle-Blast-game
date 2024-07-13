@@ -2,7 +2,8 @@
 Simple design of Marble Jungle Blast game
 
 ### With `SDL2` and `C++`, I have simulated the Marble Jungle Blast game
-
+###### c++
+###### sdl2
 # Developers
 * **Hossein Hayati**
 * **Reza Saeedi**
